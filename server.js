@@ -34,6 +34,11 @@ app.use(
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });
+
+app.get('/success_payment*', function (req, res) {
+  res.sendFile(path.join(__dirname, 'build', 'index.html'));
+});
+
 app.get('/config', async (req, res) => {
   const price = await stripe.prices.retrieve(process.env.PRICE);
 
@@ -63,7 +68,7 @@ app.post('/create-checkout-session', async (req, res) => {
         quantity: quantity
       },
     ],
-    success_url: `${domainURL}/success.html?session_id={CHECKOUT_SESSION_ID}`,
+    success_url: `${domainURL}/success_payment?session_id={CHECKOUT_SESSION_ID}`,
     cancel_url: `${domainURL}`,
     shipping_address_collection: {
       allowed_countries: ["US"]
