@@ -35,6 +35,10 @@ app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });
 
+app.get('/order', function (req, res) {
+  res.sendFile(path.join(__dirname, 'build', 'index.html'));
+});
+
 app.get('/success_payment*', function (req, res) {
   res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });
