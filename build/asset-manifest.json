@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.df4ae50c.chunk.css",
-    "main.js": "/static/js/main.51fb3f7b.chunk.js",
-    "main.js.map": "/static/js/main.51fb3f7b.chunk.js.map",
+    "main.css": "/static/css/main.ff0dc56e.chunk.css",
+    "main.js": "/static/js/main.2c3e82db.chunk.js",
+    "main.js.map": "/static/js/main.2c3e82db.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c7bad3dc.js",
     "runtime-main.js.map": "/static/js/runtime-main.c7bad3dc.js.map",
-    "static/js/2.f600a539.chunk.js": "/static/js/2.f600a539.chunk.js",
-    "static/js/2.f600a539.chunk.js.map": "/static/js/2.f600a539.chunk.js.map",
+    "static/js/2.cce59e33.chunk.js": "/static/js/2.cce59e33.chunk.js",
+    "static/js/2.cce59e33.chunk.js.map": "/static/js/2.cce59e33.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b4b92caf1e5c2aa7825a109f865a28e6.js": "/precache-manifest.b4b92caf1e5c2aa7825a109f865a28e6.js",
+    "precache-manifest.e040ace7f81c1a728f4e4dea2448fa79.js": "/precache-manifest.e040ace7f81c1a728f4e4dea2448fa79.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.df4ae50c.chunk.css.map": "/static/css/main.df4ae50c.chunk.css.map",
-    "static/js/2.f600a539.chunk.js.LICENSE.txt": "/static/js/2.f600a539.chunk.js.LICENSE.txt",
+    "static/css/main.ff0dc56e.chunk.css.map": "/static/css/main.ff0dc56e.chunk.css.map",
+    "static/js/2.cce59e33.chunk.js.LICENSE.txt": "/static/js/2.cce59e33.chunk.js.LICENSE.txt",
+    "static/media/comforting_tim.png": "/static/media/comforting_tim.1184392b.png",
     "static/media/contact.png": "/static/media/contact.419d04c5.png",
     "static/media/cover.png": "/static/media/cover.e21a0b67.png",
-    "static/media/draft.png": "/static/media/draft.f4cfe0a3.png",
     "static/media/dripping_scold.png": "/static/media/dripping_scold.1005cce8.png",
+    "static/media/family.png": "/static/media/family.bfba6e1c.png",
     "static/media/plane_brother.png": "/static/media/plane_brother.43b51ab7.png",
+    "static/media/sling.png": "/static/media/sling.a22a772c.png",
     "static/media/slingshot.png": "/static/media/slingshot.fe7bd4ae.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c7bad3dc.js",
-    "static/js/2.f600a539.chunk.js",
-    "static/css/main.df4ae50c.chunk.css",
-    "static/js/main.51fb3f7b.chunk.js"
+    "static/js/2.cce59e33.chunk.js",
+    "static/css/main.ff0dc56e.chunk.css",
+    "static/js/main.2c3e82db.chunk.js"
   ]
 }
