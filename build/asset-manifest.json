@@ -1,30 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.18e460eb.chunk.css",
-    "main.js": "/static/js/main.526f6969.chunk.js",
-    "main.js.map": "/static/js/main.526f6969.chunk.js.map",
+    "main.css": "/static/css/main.6e24317e.chunk.css",
+    "main.js": "/static/js/main.ceb1c6ad.chunk.js",
+    "main.js.map": "/static/js/main.ceb1c6ad.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c7bad3dc.js",
     "runtime-main.js.map": "/static/js/runtime-main.c7bad3dc.js.map",
-    "static/js/2.cce59e33.chunk.js": "/static/js/2.cce59e33.chunk.js",
-    "static/js/2.cce59e33.chunk.js.map": "/static/js/2.cce59e33.chunk.js.map",
+    "static/js/2.4f8d9d9d.chunk.js": "/static/js/2.4f8d9d9d.chunk.js",
+    "static/js/2.4f8d9d9d.chunk.js.map": "/static/js/2.4f8d9d9d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f97f4fcd0c9bad4b2027c933225afcb4.js": "/precache-manifest.f97f4fcd0c9bad4b2027c933225afcb4.js",
+    "precache-manifest.8f232fd497d37ca743e83bd80f3e549c.js": "/precache-manifest.8f232fd497d37ca743e83bd80f3e549c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.18e460eb.chunk.css.map": "/static/css/main.18e460eb.chunk.css.map",
-    "static/js/2.cce59e33.chunk.js.LICENSE.txt": "/static/js/2.cce59e33.chunk.js.LICENSE.txt",
+    "static/css/main.6e24317e.chunk.css.map": "/static/css/main.6e24317e.chunk.css.map",
+    "static/js/2.4f8d9d9d.chunk.js.LICENSE.txt": "/static/js/2.4f8d9d9d.chunk.js.LICENSE.txt",
+    "static/media/Tinker_Tim_Plane.pdf": "/static/media/Tinker_Tim_Plane.c006efa2.pdf",
     "static/media/comforting_tim.png": "/static/media/comforting_tim.1184392b.png",
     "static/media/contact.png": "/static/media/contact.419d04c5.png",
     "static/media/cover.png": "/static/media/cover.e21a0b67.png",
     "static/media/dripping_scold.png": "/static/media/dripping_scold.1005cce8.png",
     "static/media/family.png": "/static/media/family.bfba6e1c.png",
+    "static/media/folding_instructions.jpg": "/static/media/folding_instructions.1d903823.jpg",
     "static/media/plane_brother.png": "/static/media/plane_brother.43b51ab7.png",
     "static/media/sling.png": "/static/media/sling.a22a772c.png",
     "static/media/slingshot.png": "/static/media/slingshot.fe7bd4ae.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c7bad3dc.js",
-    "static/js/2.cce59e33.chunk.js",
-    "static/css/main.18e460eb.chunk.css",
-    "static/js/main.526f6969.chunk.js"
+    "static/js/2.4f8d9d9d.chunk.js",
+    "static/css/main.6e24317e.chunk.css",
+    "static/js/main.ceb1c6ad.chunk.js"
   ]
 }
