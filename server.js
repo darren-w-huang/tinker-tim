@@ -34,6 +34,13 @@ app.use(
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });
+app.get('/plane', function (req, res) {
+  res.sendFile(path.join(__dirname, 'build', 'index.html'));
+});
+
+app.get('/static/*', function (req, res) {
+  res.sendFile(path.join(__dirname, 'build', 'index.html'));
+});
 
 app.get('/order', function (req, res) {
   res.sendFile(path.join(__dirname, 'build', 'index.html'));
